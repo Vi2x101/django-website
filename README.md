@@ -5,6 +5,8 @@ I built a URL shortener using Python and Django. I followed a tutorial to create
 
 ![](screenshots/django-screenshot.png)
 
+To try out the program, git clone the repository and while in urlshortener directory, run in terminal 'python manage.py runserver'.
+
 ## Who did what (if you worked with someone else)
 I worked on this Hack-a-Thing by myself
 
