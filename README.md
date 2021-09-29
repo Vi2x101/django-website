@@ -3,6 +3,8 @@
 ## Short description of what you attempted to build
 I built a URL shortener using Python and Django. I followed a tutorial to create the interface and overall the attempt was successful except for my inability to get the project to deploy through Heroku. The interface has an input bar where a URL link can be entered, upon clicking on the 'shorten' button, a new link is popped out that allows the user to access the original URL link but under a shortened name. 
 
+![](screenshots/django-screenshot.png)
+
 ## Who did what (if you worked with someone else)
 I worked on this Hack-a-Thing by myself
 
